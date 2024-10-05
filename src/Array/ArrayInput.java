@@ -103,6 +103,8 @@ public class ArrayInput {
             }
         }
         return sl;
+        //if i want largest sum of two number then return sl+l;
+        //if i want maximun product of two number then return sl*l;
 
 
     }
