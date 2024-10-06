@@ -108,12 +108,12 @@ public class SubArray {
         for (int i = 0; i < ar.length; i++) {
             ar[i] = sc.nextInt();
         }
-//        int size = sc.nextInt();
+//        int size = sc.nextInt();        // want this if we pass array with size.
 //        subArrayPair(ar, size);
 //        subArrayPairSum(ar, size);
 //        subArrayPairSumToK(ar, size);
 //        PrintAllSubArray(ar);
-        PLSAEK(ar);
+          PLSAEK(ar);
 
 
     }
